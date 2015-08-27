@@ -18,6 +18,7 @@
 
     <!-- Tesla Settings screens  -->
     <string name="tesla_settings_title">Tesla Settings</string>
+    <string name="teamtesla">Team Tesla</string>
 
     <!-- Global used -->
     <string name="cat_network_icons_title">Network icons</string>
@@ -250,10 +251,10 @@
     <string name="volume_steps_system_title">Volume steps: System</string>
     <!-- Sound settings screen, setting option name -->
     <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
-    
+
     <!-- Animation Control -->
     <string name="screen_and_animations_title">Animation control</string>
-    
+
     <!-- Toast animations -->
     <string name="toast_animation_title">Toast animations</string>
     <string name="toast_animation_summary">Select and preview system toast animation</string>
@@ -299,7 +300,7 @@
     <string name="listview_anticipate_overshoot_interpolator">Anticipate and overshoot</string>
     <string name="listview_bounce_interpolator">Bounce</string>
 
-    <!-- AOKP custom system animations -->  
+    <!-- AOKP custom system animations -->
     <string name="aokp_animation_title">System animations</string>
     <string name="aokp_animation_summary">AOKP custom animation</string>
     <string name="animation_exit_only_title">Enter only animation</string>
@@ -611,7 +612,7 @@
     <!-- ATTENTION: RTL languages need to replace left with right -->
     <string name="recent_panel_lefty_mode_title">Show on the left edge</string>
     <string name="recent_panel_lefty_mode_summary">Show recent apps panel on the left edge</string>
-    
+
     <!-- Status bar temperature -->
     <string name="status_bar_temperature_title">Temperature</string>
     <string name="status_bar_temperature_hidden">Hidden</string>

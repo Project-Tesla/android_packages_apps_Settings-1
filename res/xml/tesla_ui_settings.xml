@@ -20,6 +20,13 @@
     android:title="@string/tesla_settings_title"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
+    <!-- Team Tesla -->
+    <PreferenceScreen
+            android:key="teamtesla"
+            android:title="@string/teamtesla"
+            android:fragment="com.android.settings.tesla.TeamTesla"
+            />
+
     <!-- Buttons -->
     <PreferenceScreen
             android:id="@+id/button_settings"
